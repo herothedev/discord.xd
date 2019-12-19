@@ -1,2 +1,6 @@
-# discord.xd
-discord.xd library for interacting with Discord API. (alpha)
+# Discord.XD
+User friendly interacting library with Discord API!
+
+Docs: soon
+
+
